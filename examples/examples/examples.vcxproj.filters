@@ -25,8 +25,14 @@
     <ClCompile Include="make_is_array.cpp">
       <Filter>template</Filter>
     </ClCompile>
-    <ClCompile Include="simple_concepts.cpp">
-      <Filter>shared_ptr</Filter>
+    <ClCompile Include="simple_concepts_1.cpp">
+      <Filter>template</Filter>
+    </ClCompile>
+    <ClCompile Include="simple_concepts_2.cpp">
+      <Filter>template</Filter>
+    </ClCompile>
+    <ClCompile Include="concepts_integral.cpp">
+      <Filter>template</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
